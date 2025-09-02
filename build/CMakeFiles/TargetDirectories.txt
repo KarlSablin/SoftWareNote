@@ -1,0 +1,2 @@
+D:/Github/SoftWareNote/build/CMakeFiles/edit_cache.dir
+D:/Github/SoftWareNote/build/CMakeFiles/rebuild_cache.dir
