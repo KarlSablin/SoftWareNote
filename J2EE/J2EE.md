@@ -13,3 +13,10 @@ javax
 Servlet
 
 javax.servlet
+
+
+Java Application
+
+Java Web Application
+
+Servlet, Filter, Listener, JSP, Tag, Struts, Spring
